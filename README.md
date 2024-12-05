@@ -1,10 +1,10 @@
-### README: Verificar Instalación de CUDA
+# README: Verificar Instalación de CUDA
 
 Este README guía paso a paso cómo comprobar que CUDA está correctamente instalado y funcionando en tu sistema, después de haber seguido los pasos de instalación.
 
 ---
 
-### **Pasos Previos**
+## **Pasos Previos**
 Para instalar CUDA y las bibliotecas necesarias, sigue estos pasos:
 
 1. **Descargar y actualizar dependencias de la gráfica**
@@ -18,7 +18,7 @@ Para instalar CUDA y las bibliotecas necesarias, sigue estos pasos:
 
 ---
 
-### **Prueba de CUDA**
+## **Prueba de CUDA**
 Una vez completada la instalación, verifica que CUDA esté funcionando correctamente con el siguiente script:
 
 1. **Abrir un entorno Python**
@@ -51,7 +51,7 @@ Una vez completada la instalación, verifica que CUDA esté funcionando correcta
 
 ---
 
-### **Resolución de Problemas**
+## **Resolución de Problemas**
 Si el script indica que CUDA no está disponible:
 1. Revisa si los drivers de la GPU están actualizados.
 2. Asegúrate de que las versiones de CUDA, cuDNN y PyTorch sean compatibles entre sí.
